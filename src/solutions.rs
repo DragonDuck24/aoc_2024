@@ -1,9 +1,9 @@
 /// The known solutions. This is used to colorize the output and for the automated testing.
 pub const SOLUTIONS: [(&'static str, &'static str); 25] = [
-    ("", ""), // 01
-    ("", ""), // 02
-    ("", ""), // 03
-    ("", ""), // 04
+    ("1834060", "21607792"), // 01
+    ("559", "601"), // 02
+    ("190604937", "82857512"), // 03
+    ("2524", "1873"), // 04
     ("", ""), // 05
     ("", ""), // 06
     ("", ""), // 07
